@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/logo.svg" alt="Logo" width="300"/>
+  <img src="./.github/logo.png" alt="Logo" width="300"/>
 </p>
 <h3 align="center">
 Você no controle da sua rotina!
